@@ -8,7 +8,7 @@ function App() {
       <h1>{love}</h1>
       <button
         onClick={() => {
-          setLove('I Love You❤');
+          setLove('BAPAK AKU ADIT');
         }}
       >
         pencet aku dong
